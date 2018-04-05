@@ -3,7 +3,7 @@ Todo Application with spring boot embeded mongodb and angular 2 framework
 
 cd springboot-todo-backend
 mvn package
-java -jar target/todoapp-springboot-1.0.0.jar
+java -jar target/todoapp-springboot-0.0.1-SNAPSHOT.jar
 Alternatively, you can run the app without packaging it using -
 
 mvn spring-boot:run
